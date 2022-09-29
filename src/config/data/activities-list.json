@@ -1,0 +1,16 @@
+{
+  "Organize closet": [
+    { "Donate old clothes and shoes": true },
+    { "Buy new shelf": false },
+    { "Put in shelf by color": false }
+  ],
+  "Finish homework": [
+    { "Finish math homework": false },
+    { "Finish science homework": false },
+    { "Finish Reactjs homework": false }
+  ],
+  "Achieve nirvana": [
+    { "Meditate a little": false },
+    { "Gain some wisdom": false }
+  ]
+}
